@@ -1,0 +1,3 @@
+数据说明：
+trains.txt: pos/neg各500条，u、b各四条，带标签
+tests_text.txt: 形式与trains.txt相似，无标签
